@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react";
+// src/pages/movies.js
+import React from "react";
 
 function Movie() {
   return (
